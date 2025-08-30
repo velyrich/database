@@ -20,16 +20,6 @@
     "akses": true
   },
   {
-    "username": "ell",
-    "password": "ell775",
-    "akses": true
-  },
-  {
-    "username": "fahri",
-    "password": "fahri775",
-    "akses": true
-  },
-  {
     "username": "azrilly",
     "password": "azrilly775",
     "akses": true
@@ -37,6 +27,11 @@
   {
     "username": "L",
     "password": "L775",
+    "akses": true
+  },
+  {
+    "username": "irfan",
+    "password": "irfan775",
     "akses": true
   }
 ]
