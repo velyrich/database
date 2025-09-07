@@ -3,35 +3,35 @@
     "name": "Babji Neelam",
     "position": "CEO of Technical Hub",
     "companyLink": "https://technicalhub.io",
-    "avatar": "img/icons/babjisir.jpeg",
+    "avatar": "img/icons/icon.jpeg",
     "review": "Seorang developer berbakat dengan kontribusi nyata pada ekosistem bot dan solusi teknologi inovatif."
   },
   {
     "name": "GFG Team",
     "position": "Campus Connection Team at GeeksforGeeks",
     "companyLink": "https://www.geeksforgeeks.org/",
-    "avatar": "img/icons/gfg.png",
+    "avatar": "img/icons/icon.jpeg",
     "review": "Mampu menginspirasi, membangun komunitas coding aktif, dan selalu berbagi ilmu dengan cara yang mudah dipahami."
   },
   {
     "name": "Ravi Kumar",
     "position": "Senior Software Engineer",
     "companyLink": "https://www.linkedin.com",
-    "avatar": "img/icons/ravi.png",
+    "avatar": "img/icons/icon.jpeg",
     "review": "Kolaborasi yang solid! Pekerjaan selalu selesai tepat waktu dengan kualitas tinggi, terutama dalam pengembangan API dan integrasi sistem."
   },
   {
     "name": "Anjali Sharma",
     "position": "UI/UX Designer",
     "companyLink": "https://dribbble.com",
-    "avatar": "img/icons/anjali.png",
+    "avatar": "img/icons/icon.jpeg",
     "review": "Sangat detail dalam menghubungkan backend dengan desain. Membuat pengalaman pengguna jadi lebih mulus."
   },
   {
     "name": "TechNova Client",
     "position": "Startup Founder",
     "companyLink": "https://technova.io",
-    "avatar": "https://files.catbox.moe/nwvkbt.png",
+    "avatar": "img/icons/icon.jpeg",
     "review": "Memberikan solusi bot yang efisien untuk bisnis kami. Sangat responsif, profesional, dan bisa menyesuaikan kebutuhan perusahaan."
   }
 ]
