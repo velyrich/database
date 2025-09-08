@@ -223,7 +223,7 @@
     {
       "nomor": "6285878891065",
       "userName": "nayoung",
-      "status": false
+      "status": true
     },
     {
       "nomor": "6281931272427",
@@ -273,12 +273,12 @@
     {
       "nomor": "6282379676616",
       "userName": "yuca",
-      "status": true
+      "status": false
     },
     {
       "nomor": "6285729846273",
       "userName": "kizhoo",
-      "status": true
+      "status": false
     },
     {
       "nomor": "6287874491254",
