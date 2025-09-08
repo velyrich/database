@@ -78,17 +78,17 @@
     {
       "nomor": "6283112148706",
       "userName": "say",
-      "status": true
+      "status": false
     },
     {
       "nomor": "6283893078836",
       "userName": "ll",
-      "status": false
+      "status": true
     },
     {
       "nomor": "6281233522168",
       "userName": "villain",
-      "status": true
+      "status": false
     },
     {
       "nomor": "6283193218655",
