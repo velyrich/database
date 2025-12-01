@@ -18,6 +18,15 @@
           "webpass": "Lcky.547",
           "role": "Developer"
         }
+      ],
+      ".test": [
+        {
+          "nomor": "628383798",
+          "blokir": true,
+          "profile": "https://files.catbox.moe/3aq55y.jpg",
+          "webpass": "Lcky.547",
+          "role": "Developer"
+        }
       ]
     }
   }
