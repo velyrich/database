@@ -1,6 +1,22 @@
 {
   "data": {
     "user": {
+      "z.": [
+        {
+          "user": "Lín Wēi Yǎ （薇雅）",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/z.-1764790278096.jpg",
+          "webpass": "Lcky.547",
+          "banned": false,
+          "role": "Developer",
+          "email": "vellian.elyvia@gmail.com",
+          "database": {
+            "username": "z.",
+            "nomor": "6283837983474",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
       "v.": [
         {
           "user": "none",
