@@ -1,22 +1,5 @@
 {
   "data": {
-    "user": {
-      "x2": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "x2",
-            "nomor": "19",
-            "status": false,
-            "blokir": false
-          }
-        }
-      ]
-    }
+    "user": {}
   }
 }
