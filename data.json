@@ -12,7 +12,7 @@
           "database": {
             "username": "z.",
             "nomor": "6283837983474",
-            "status": false,
+            "status": true,
             "blokir": false
           }
         }
@@ -28,7 +28,7 @@
           "database": {
             "username": "z.",
             "nomor": "6283837983474",
-            "status": true,
+            "status": false,
             "blokir": false
           }
         }
@@ -44,7 +44,7 @@
           "database": {
             "username": "z.",
             "nomor": "6283837983474",
-            "status": true,
+            "status": false,
             "blokir": false
           }
         }
