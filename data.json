@@ -1,259 +1,54 @@
 {
-  "data": [
-    {
-      "nomor": "6285751944270",
-      "userName": "z.",
-      "status": true
-    },
-    {
-      "nomor": "6283116009790",
-      "userName": "v.",
-      "status": true
-    },
-    {
-      "nomor": "6281931272427",
-      "userName": "L",
-      "status": true
-    },
-    {
-      "nomor": "6289605352200",
-      "userName": "cathy",
-      "status": true
-    },
-    {
-      "nomor": "6282366845953",
-      "userName": "sptian",
-      "status": true
-    },
-    {
-      "nomor": "6285753513769",
-      "userName": "reret",
-      "status": true
-    },
-    {
-      "nomor": "6285707088201",
-      "userName": "lysa",
-      "status": true
-    },
-    {
-      "nomor": "6283146403016",
-      "userName": "mira",
-      "status": true
-    },
-    {
-      "nomor": "6283891265802",
-      "userName": "kyyze",
-      "status": true
-    },
-    {
-      "nomor": "6281936643905",
-      "userName": "rbonlym1",
-      "status": true
-    },
-    {
-      "nomor": "6285895828128",
-      "userName": "komik",
-      "status": true
-    },
-    {
-      "nomor": "6287815286177",
-      "userName": "monz",
-      "status": true
-    },
-    {
-      "nomor": "573150760233",
-      "userName": "L2",
-      "status": true
-    },
-    {
-      "nomor": "6287861665305",
-      "userName": "xena",
-      "status": true
-    },
-    {
-      "nomor": "6287771484076",
-      "userName": "Louise",
-      "status": true
-    },
-    {
-      "nomor": "6285185106755",
-      "userName": "F",
-      "status": true
-    },
-    {
-      "nomor": "6285138606342",
-      "userName": "vienna",
-      "status": true
-    },
-    {
-      "nomor": "6283850724815",
-      "userName": "FahrzSetir",
-      "status": true
-    },
-    {
-      "nomor": "23057369958",
-      "userName": "niuvaa",
-      "status": true
-    },
-    {
-      "nomor": "6282133144943",
-      "userName": "niuvaa2",
-      "status": true
-    },
-    {
-      "nomor": "6285775053090",
-      "userName": "Arona",
-      "status": true
-    },
-    {
-      "nomor": "6283167513007",
-      "userName": "rafli",
-      "status": true
-    },
-    {
-      "nomor": "6285168869653",
-      "userName": "DNozez",
-      "status": true
-    },
-    {
-      "nomor": "6285168847220",
-      "userName": "asep",
-      "status": true
-    },
-    {
-      "nomor": "6283857463983",
-      "userName": "ibsstore",
-      "status": true
-    },
-    {
-      "nomor": "6285860577734",
-      "userName": "z",
-      "status": true
-    },
-    {
-      "nomor": "6285647378994",
-      "userName": "kevin",
-      "status": true
-    },
-    {
-      "nomor": "6287738741526",
-      "userName": "kaivelv",
-      "status": true
-    },
-    {
-      "nomor": "6285148147007",
-      "userName": "vin",
-      "status": true
-    },
-    {
-      "nomor": "6287832370043",
-      "userName": "VrenN",
-      "status": true
-    },
-    {
-      "nomor": "6285895211039",
-      "userName": "Zira",
-      "status": true
-    },
-    {
-      "nomor": "6285895211039",
-      "userName": "Lilly",
-      "status": true
-    },
-    {
-      "nomor": "819089837929",
-      "userName": "NotZack1",
-      "status": true
-    },
-    {
-      "nomor": "62895381006378",
-      "userName": "ze",
-      "status": true
-    },
-    {
-      "nomor": "6281915895220",
-      "userName": "Nimzz",
-      "status": true
-    },
-    {
-      "nomor": "6285194331525",
-      "userName": "viora",
-      "status": true
-    },
-    {
-      "nomor": "6287758725674",
-      "userName": "pp",
-      "status": true
-    },
-    {
-      "nomor": "62895609776333",
-      "userName": "Panz",
-      "status": true
-    },
-    {
-      "nomor": "6283895810946",
-      "userName": "wanz",
-      "status": true
-    },
-    {
-      "nomor": "6285837043600",
-      "userName": "Lloyd",
-      "status": true
-    },
-    {
-      "nomor": "819076268257",
-      "userName": "ky",
-      "status": true
-    },
-    {
-      "nomor": "6282261856172",
-      "userName": "nesx",
-      "status": true
-    },
-    {
-      "nomor": "79785979471",
-      "userName": "Nozez",
-      "status": true
-    },
-    {
-      "nomor": "6285713248562",
-      "userName": "kyy",
-      "status": true
-    },
-    {
-      "nomor": "6287893995983",
-      "userName": "clarissa",
-      "status": true
-    },
-    {
-      "nomor": "085129872535",
-      "userName": "villain",
-      "status": true
-    },
-    {
-      "nomor": "6283826148348",
-      "userName": "luccane",
-      "status": true
-    },
-    {
-      "nomor": "6285244946466",
-      "userName": "villainn",
-      "status": true
-    },
-    {
-      "nomor": "6283895893023",
-      "userName": "kaito",
-      "status": true
-    },
-    {
-      "nomor": "6289654366638",
-      "userName": "Hikaru",
-      "status": true
-    },
-    {
-      "nomor": "6283163804005",
-      "userName": "reisya",
-      "status": true
+  "data": {
+    "user": {
+      "z.": [
+        {
+          "user": "LÃƒÂ­n WÃ„Â“i YÃ‡ÂŽ Ã¯Â¼ÂˆÃ¨Â–Â‡Ã©Â›Â…Ã¯Â¼Â‰",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/z.-1764790278096.jpg",
+          "webpass": "Lcky.547",
+          "banned": false,
+          "role": "Developer",
+          "email": "vellian.elyvia@gmail.com",
+          "database": {
+            "username": "z.",
+            "nomor": "6283837983474",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "v.": [
+        {
+          "user": "none",
+          "profile": "https://files.catbox.moe/3aq55y.jpg",
+          "webpass": "Lcky.547",
+          "banned": false,
+          "role": "Developer",
+          "email": "",
+          "database": {
+            "username": "z.",
+            "nomor": "6283837983474",
+            "status": false,
+            "blokir": false
+          }
+        }
+      ],
+      ".test": [
+        {
+          "user": "none",
+          "profile": "https://files.catbox.moe/3aq55y.jpg",
+          "webpass": "Lcky.547",
+          "banned": false,
+          "role": "Developer",
+          "email": "",
+          "database": {
+            "username": "z.",
+            "nomor": "6283837983474",
+            "status": false,
+            "blokir": false
+          }
+        }
+      ]
     }
-  ]
+  }
 }
