@@ -1,54 +1,5 @@
 {
   "data": {
-    "user": {
-      "z.": [
-        {
-          "user": "LÃƒÂ­n WÃ„Â“i YÃ‡ÂŽ Ã¯Â¼ÂˆÃ¨Â–Â‡Ã©Â›Â…Ã¯Â¼Â‰",
-          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/z.-1764790278096.jpg",
-          "webpass": "Lcky.547",
-          "banned": false,
-          "role": "Developer",
-          "email": "vellian.elyvia@gmail.com",
-          "database": {
-            "username": "z.",
-            "nomor": "6283837983474",
-            "status": false,
-            "blokir": false
-          }
-        }
-      ],
-      "v.": [
-        {
-          "user": "none",
-          "profile": "https://files.catbox.moe/3aq55y.jpg",
-          "webpass": "Lcky.547",
-          "banned": false,
-          "role": "Developer",
-          "email": "",
-          "database": {
-            "username": "z.",
-            "nomor": "6283837983474",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
-      ".test": [
-        {
-          "user": "none",
-          "profile": "https://files.catbox.moe/3aq55y.jpg",
-          "webpass": "Lcky.547",
-          "banned": false,
-          "role": "Developer",
-          "email": "",
-          "database": {
-            "username": "z.",
-            "nomor": "6283837983474",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ]
-    }
+    "user": {}
   }
 }
