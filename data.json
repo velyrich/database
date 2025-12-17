@@ -1,5 +1,22 @@
 {
   "data": {
-    "user": {}
+    "user": {
+      "z.": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "z.",
+            "nomor": "6285751944270",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ]
+    }
   }
 }
