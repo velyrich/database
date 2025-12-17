@@ -12,7 +12,7 @@
           "database": {
             "username": "z.",
             "nomor": "6285751944270",
-            "status": false,
+            "status": true,
             "blokir": false
           }
         }
@@ -67,15 +67,15 @@
       ],
       "sptian": [
         {
-          "user": "",
+          "user": "Hachu HypeHouse",
           "profile": "-",
           "webpass": "",
           "banned": false,
           "role": "",
-          "email": "",
+          "email": "supri26.d@gmail.com",
           "database": {
             "username": "sptian",
-            "nomor": "6282366845953",
+            "nomor": "6289525212377",
             "status": true,
             "blokir": false
           }
