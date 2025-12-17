@@ -12,7 +12,7 @@
           "database": {
             "username": "xx",
             "nomor": "00",
-            "status": false,
+            "status": true,
             "blokir": false
           }
         }
