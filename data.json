@@ -848,6 +848,22 @@
             "blokir": false
           }
         }
+      ],
+      "nesx2": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "nesx2",
+            "nomor": "62881012457289",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
