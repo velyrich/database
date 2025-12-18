@@ -577,22 +577,6 @@
           }
         }
       ],
-      "pp": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "pp",
-            "nomor": "6287758725674",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "Panz": [
         {
           "user": "",
