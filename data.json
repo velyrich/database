@@ -35,8 +35,8 @@
       ],
       "L": [
         {
-          "user": "L",
-          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/L-1766038142305.jpg",
+          "user": "",
+          "profile": "-",
           "webpass": "",
           "banned": false,
           "role": "",
@@ -44,7 +44,7 @@
           "database": {
             "username": "L",
             "nomor": "6281931272427",
-            "status": true,
+            "status": false,
             "blokir": false
           }
         }
