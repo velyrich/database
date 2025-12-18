@@ -129,6 +129,22 @@
           }
         }
       ],
+      "kyyze": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "kyyze",
+            "nomor": "6283891265802",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
       "rbonlym1": [
         {
           "user": "",
@@ -667,7 +683,7 @@
           "email": "",
           "database": {
             "username": "Nozez",
-            "nomor": "447781517507",
+            "nomor": "79785979471",
             "status": true,
             "blokir": false
           }
@@ -795,7 +811,7 @@
           "email": "",
           "database": {
             "username": "reisya",
-            "nomor": "6281361515191",
+            "nomor": "6283163804005",
             "status": true,
             "blokir": false
           }
