@@ -129,6 +129,22 @@
           }
         }
       ],
+      "kyyze": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "kyyze",
+            "nomor": "6283891265802",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
       "rbonlym1": [
         {
           "user": "",
@@ -796,7 +812,7 @@
           "database": {
             "username": "reisya",
             "nomor": "6281361515191",
-            "status": true,
+            "status": false,
             "blokir": false
           }
         }
