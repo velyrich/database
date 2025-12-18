@@ -401,22 +401,6 @@
           }
         }
       ],
-      "z": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "z",
-            "nomor": "6285860577734",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "kevin": [
         {
           "user": "",
