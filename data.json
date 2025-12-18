@@ -683,8 +683,8 @@
           "email": "",
           "database": {
             "username": "Nozez",
-            "nomor": "62447781517507",
-            "status": false,
+            "nomor": "79785979471",
+            "status": true,
             "blokir": false
           }
         }
@@ -844,22 +844,6 @@
           "database": {
             "username": "Y19s",
             "nomor": "6281908286528",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
-      "nesx2": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "nesx2",
-            "nomor": "62881012457289",
             "status": true,
             "blokir": false
           }
