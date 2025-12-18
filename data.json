@@ -260,7 +260,7 @@
       "vienna": [
         {
           "user": "",
-          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/vienna-1766019220127.jpg",
+          "profile": "../assets/img/avatars/1.png",
           "webpass": "",
           "banned": false,
           "role": "",
