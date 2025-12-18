@@ -129,22 +129,6 @@
           }
         }
       ],
-      "kyyze": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "kyyze",
-            "nomor": "6283891265802",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "rbonlym1": [
         {
           "user": "",
@@ -683,7 +667,7 @@
           "email": "",
           "database": {
             "username": "Nozez",
-            "nomor": "79785979471",
+            "nomor": "447781517507",
             "status": true,
             "blokir": false
           }
