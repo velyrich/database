@@ -641,22 +641,6 @@
           }
         }
       ],
-      "ky": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "ky",
-            "nomor": "819076268257",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "nesx": [
         {
           "user": "",
