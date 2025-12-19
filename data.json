@@ -419,7 +419,7 @@
       ],
       "vin": [
         {
-          "user": "",
+          "user": "vin",
           "profile": "-",
           "webpass": "",
           "banned": false,
