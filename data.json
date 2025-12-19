@@ -563,7 +563,7 @@
       ],
       "wanz": [
         {
-          "user": "Wanzz Tzy",
+          "user": "",
           "profile": "-",
           "webpass": "",
           "banned": false,
@@ -572,7 +572,7 @@
           "database": {
             "username": "wanz",
             "nomor": "6283895810946",
-            "status": true,
+            "status": false,
             "blokir": false
           }
         }
