@@ -816,6 +816,22 @@
             "blokir": false
           }
         }
+      ],
+      "rimuru": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "rimuru",
+            "nomor": "5515981302289",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
