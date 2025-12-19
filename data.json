@@ -563,16 +563,16 @@
       ],
       "wanz": [
         {
-          "user": "wanz z",
+          "user": "",
           "profile": "-",
           "webpass": "",
           "banned": false,
           "role": "",
-          "email": "wanzzganzz095@gmail.com",
+          "email": "",
           "database": {
             "username": "wanz",
-            "nomor": "6281460365472",
-            "status": false,
+            "nomor": "6283895810946",
+            "status": true,
             "blokir": false
           }
         }
