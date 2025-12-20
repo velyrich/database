@@ -572,7 +572,7 @@
           "database": {
             "username": "wanz",
             "nomor": "6285775267358",
-            "status": false,
+            "status": true,
             "blokir": false
           }
         }
