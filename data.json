@@ -657,22 +657,6 @@
           }
         }
       ],
-      "luccane": [
-        {
-          "user": "Ali Al Rashid",
-          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/luccane-1766070893530.jpg",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "luccanekaivanadmaja@gmail.com",
-          "database": {
-            "username": "luccane",
-            "nomor": "6283826148348",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "villainn": [
         {
           "user": "",
