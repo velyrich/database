@@ -59,7 +59,7 @@
           "email": "",
           "database": {
             "username": "cathy",
-            "nomor": "6289605352200",
+            "nomor": "6283146111995",
             "status": true,
             "blokir": false
           }
@@ -769,6 +769,22 @@
           }
         }
       ],
+      "cpi": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "cpi",
+            "nomor": "6285814773941",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
       "rimuru": [
         {
           "user": "",
@@ -828,22 +844,6 @@
           "database": {
             "username": "zee",
             "nomor": "573178420255",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
-      "cpi": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "cpi",
-            "nomor": "6285773217868",
             "status": true,
             "blokir": false
           }
