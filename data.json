@@ -832,6 +832,22 @@
             "blokir": false
           }
         }
+      ],
+      "cpi": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "cpi",
+            "nomor": "6285773217868",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
