@@ -848,6 +848,22 @@
             "blokir": false
           }
         }
+      ],
+      "Zas": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Zas",
+            "nomor": "6285773217868",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
