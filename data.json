@@ -864,6 +864,22 @@
             "blokir": false
           }
         }
+      ],
+      "zeee": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "zeee",
+            "nomor": "573158838127",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
