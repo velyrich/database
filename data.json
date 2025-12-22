@@ -497,22 +497,6 @@
           }
         }
       ],
-      "ze": [
-        {
-          "user": "Kyyze Nava",
-          "profile": "../assets/img/avatars/1.png",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "ze",
-            "nomor": "62895381006378",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "Nimzz": [
         {
           "user": "",
