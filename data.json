@@ -75,7 +75,7 @@
           "email": "supri26.d@gmail.com",
           "database": {
             "username": "sptian",
-            "nomor": "6285764186745",
+            "nomor": "6282379256768",
             "status": true,
             "blokir": false
           }
@@ -315,7 +315,7 @@
           "email": "",
           "database": {
             "username": "Arona",
-            "nomor": "6285705900206",
+            "nomor": "6285775053090",
             "status": true,
             "blokir": false
           }
@@ -492,6 +492,22 @@
           "database": {
             "username": "NotZack1",
             "nomor": "819089837929",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "ze": [
+        {
+          "user": "Kyyze Nava",
+          "profile": "../assets/img/avatars/1.png",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "ze",
+            "nomor": "62895381006378",
             "status": true,
             "blokir": false
           }
@@ -844,38 +860,6 @@
           "database": {
             "username": "Zas",
             "nomor": "6285773217868",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
-      "ze": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "ze",
-            "nomor": "573170303444",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
-      "zeee": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "zeee",
-            "nomor": "573158838127",
             "status": true,
             "blokir": false
           }
