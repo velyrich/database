@@ -803,16 +803,16 @@
       ],
       "luccane": [
         {
-          "user": "luccane",
+          "user": "",
           "profile": "",
           "webpass": "",
           "banned": false,
           "role": "",
-          "email": "luccanekaivanadmaja@gmail.com",
+          "email": "",
           "database": {
             "username": "luccane",
-            "nomor": "6283826148348",
-            "status": true,
+            "nomor": "6289670041381",
+            "status": false,
             "blokir": false
           }
         }
