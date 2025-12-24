@@ -1,9 +1,870 @@
 {
-  "data": [
-    {
-      "nomor": "573170303444",
-      "userName": "kontol34556!#$%^%##@#$%^^%%%$$#@@@#$%^&",
-      "status": true
+  "data": {
+    "user": {
+      "z.": [
+        {
+          "user": "Bakekok",
+          "profile": "https://files.catbox.moe/3s684e.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "z.",
+            "nomor": "6285751944270",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "v.": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "v.",
+            "nomor": "6283116009790",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "L": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "L",
+            "nomor": "6281931272427",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "cathy": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "cathy",
+            "nomor": "6288987529507",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "sptian": [
+        {
+          "user": "Hachu HypeHouse",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "supri26.d@gmail.com",
+          "database": {
+            "username": "sptian",
+            "nomor": "6282366845953",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "reret": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "reret",
+            "nomor": "6285753513769",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "lysa": [
+        {
+          "user": "",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/lysa-1766010960539.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "lysa",
+            "nomor": "6285707088201",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "mira": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "mira",
+            "nomor": "6283146403016",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "rbonlym1": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "rbonlym@yahoo.com",
+          "database": {
+            "username": "rbonlym1",
+            "nomor": "6281936643905",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "komik": [
+        {
+          "user": "",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/komik-1766009018313.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "komik",
+            "nomor": "6285895828128",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "monz": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "monz",
+            "nomor": "6287815286177",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "L2": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "L2",
+            "nomor": "573150760233",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "xena": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "xena",
+            "nomor": "6287861665305",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Louise": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Louise",
+            "nomor": "6287771484076",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "F": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "F",
+            "nomor": "6285185106752",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "vienna": [
+        {
+          "user": "Vienna Elena",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/vienna-1766019234570.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "itsviienna@gmail.com",
+          "database": {
+            "username": "vienna",
+            "nomor": "6285138606342",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "FahrzSetir": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "FahrzSetir",
+            "nomor": "6283850724815",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "niuvaa": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "niuvaa",
+            "nomor": "23057369958",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "niuvaa2": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "niuvaa2",
+            "nomor": "6282133144943",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Arona": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Arona",
+            "nomor": "6285775053090",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "rafli": [
+        {
+          "user": "rafli suki",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/rafli-1766024833196.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "rafli",
+            "nomor": "6283167513007",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "DNozez": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "DNozez",
+            "nomor": "6285168869653",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "asep": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "asep",
+            "nomor": "6285168847220",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "ibsstore": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "ibsstore",
+            "nomor": "6283857463983",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "kevin": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "kevin",
+            "nomor": "6285647378994",
+            "status": false,
+            "blokir": false
+          }
+        }
+      ],
+      "kaivelv": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "kaivelv",
+            "nomor": "6287738741526",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "vin": [
+        {
+          "user": "vin",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "vin",
+            "nomor": "6285148147007",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "VrenN": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "VrenN",
+            "nomor": "6287832370043",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Zira": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Zira",
+            "nomor": "6285895211039",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Lilly": [
+        {
+          "user": "Lillya",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/Lilly-1766094756644.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Lilly",
+            "nomor": "6285725029137",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "NotZack1": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "NotZack1",
+            "nomor": "819089837929",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "ze": [
+        {
+          "user": "Kyyze Nava",
+          "profile": "../assets/img/avatars/1.png",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "ze",
+            "nomor": "62895381006378",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Nimzz": [
+        {
+          "user": "",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/Nimzz-1766011989372.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Nimzz",
+            "nomor": "6281915895220",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "viora": [
+        {
+          "user": "viora",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "viora",
+            "nomor": "6285189991642",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Panz": [
+        {
+          "user": "",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/Panz-1766495673602.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Panz",
+            "nomor": "62895609776333",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "wanz": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "wanz",
+            "nomor": "6285775267358",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Lloyd": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Lloyd",
+            "nomor": "6285837043600",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "nesx": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "nesx",
+            "nomor": "6282261856172",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Nozez": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Nozez",
+            "nomor": "6285179864312",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "clarissa": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "clarissa",
+            "nomor": "6287893995983",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "villain": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "villain",
+            "nomor": "085129872535",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "villainn": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "villainn",
+            "nomor": "628987472181",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "kaito": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "kaito",
+            "nomor": "6283895893023",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Hikaru": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Hikaru",
+            "nomor": "6289654366638",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "reisya": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "reisya",
+            "nomor": "628984315893",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "yoshiro": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "yoshiro",
+            "nomor": "6283871624446",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Y19s": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Y19s",
+            "nomor": "6281908286528",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "DURO22": [
+        {
+          "user": "",
+          "profile": "../assets/img/avatars/1.png",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "DURO22",
+            "nomor": "62895393208377",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "rimuru": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "rimuru",
+            "nomor": "5515981302289",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "nest": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "nest",
+            "nomor": "62881012457289",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "luccane": [
+        {
+          "user": "luccane",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/luccane-1766560119940.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "luccanekaivanadmaja@gmail.com",
+          "database": {
+            "username": "luccane",
+            "nomor": "6283826148348",
+            "status": false,
+            "blokir": false
+          }
+        }
+      ],
+      "zee": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "zee",
+            "nomor": "573178420255",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "cpi": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "cpi",
+            "nomor": "6285814773941",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "Zas": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Zas",
+            "nomor": "6285773217868",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ]
     }
-  ]
+  }
 }
