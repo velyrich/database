@@ -864,6 +864,22 @@
             "blokir": false
           }
         }
+      ],
+      "vil": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "vil",
+            "nomor": "573170303444",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
