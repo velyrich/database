@@ -675,12 +675,12 @@
       ],
       "kaito": [
         {
-          "user": "",
-          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/kaito-1766635815053.jpg",
+          "user": "kaito kiyyo",
+          "profile": "../assets/img/avatars/1.png",
           "webpass": "",
           "banned": false,
           "role": "",
-          "email": "",
+          "email": "kaitokiyyo@gmail.com",
           "database": {
             "username": "kaito",
             "nomor": "6283895893023",
