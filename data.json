@@ -912,6 +912,22 @@
             "blokir": false
           }
         }
+      ],
+      "azril": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "azril",
+            "nomor": "6285183267263",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
