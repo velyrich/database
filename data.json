@@ -475,7 +475,7 @@
           "email": "",
           "database": {
             "username": "Lilly",
-            "nomor": "6285725029137",
+            "nomor": "6285895211039",
             "status": true,
             "blokir": false
           }
@@ -892,22 +892,6 @@
           "database": {
             "username": "Raven",
             "nomor": "6285134950138",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
-      "kaizy": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "kaizy",
-            "nomor": "12262883327",
             "status": true,
             "blokir": false
           }
