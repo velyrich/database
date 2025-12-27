@@ -161,22 +161,6 @@
           }
         }
       ],
-      "monz": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "monz",
-            "nomor": "6287815286177",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "L2": [
         {
           "user": "",
