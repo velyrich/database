@@ -912,6 +912,22 @@
             "blokir": false
           }
         }
+      ],
+      "shiroi": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "shiroi",
+            "nomor": "2250799961443",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
