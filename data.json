@@ -912,6 +912,22 @@
             "blokir": false
           }
         }
+      ],
+      "azaz": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "azaz",
+            "nomor": "6285819881929",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
