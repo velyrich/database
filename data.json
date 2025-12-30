@@ -337,22 +337,6 @@
           }
         }
       ],
-      "asep": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "asep",
-            "nomor": "6285168847220",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "ibsstore": [
         {
           "user": "",
