@@ -385,22 +385,6 @@
           }
         }
       ],
-      "vin": [
-        {
-          "user": "vin",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "vin",
-            "nomor": "62972599143481",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "VrenN": [
         {
           "user": "",
