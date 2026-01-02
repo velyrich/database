@@ -353,22 +353,6 @@
           }
         }
       ],
-      "kevin": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "kevin",
-            "nomor": "584160432189",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "kaivelv": [
         {
           "user": "",
