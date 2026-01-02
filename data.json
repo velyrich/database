@@ -944,6 +944,22 @@
             "blokir": false
           }
         }
+      ],
+      "Hikaru": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Hikaru",
+            "nomor": "6289673302633",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
