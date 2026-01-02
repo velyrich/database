@@ -897,22 +897,6 @@
           }
         }
       ],
-      "lipai": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "lipai",
-            "nomor": "628984804276",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "Asep": [
         {
           "user": "",
