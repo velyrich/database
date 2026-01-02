@@ -625,22 +625,6 @@
           }
         }
       ],
-      "Hikaru": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "Hikaru",
-            "nomor": "6289654366638",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "reisya": [
         {
           "user": "",
