@@ -395,7 +395,7 @@
           "email": "",
           "database": {
             "username": "Zira",
-            "nomor": "6285895211039",
+            "nomor": "6285725029137",
             "status": true,
             "blokir": false
           }
@@ -883,7 +883,7 @@
       ],
       "vin": [
         {
-          "user": "",
+          "user": "vin",
           "profile": "",
           "webpass": "",
           "banned": false,
@@ -891,7 +891,7 @@
           "email": "",
           "database": {
             "username": "vin",
-            "nomor": "62972599146627",
+            "nomor": "6285148147007",
             "status": true,
             "blokir": false
           }
