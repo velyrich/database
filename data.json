@@ -913,22 +913,6 @@
           }
         }
       ],
-      "rimuru1": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "rimuru1",
-            "nomor": "50494224066",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "kaizer": [
         {
           "user": "",
