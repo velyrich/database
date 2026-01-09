@@ -545,22 +545,6 @@
           }
         }
       ],
-      "villain": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "villain",
-            "nomor": "085129872535",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "kaito": [
         {
           "user": "kaito kiyyo",
