@@ -928,22 +928,6 @@
             "blokir": false
           }
         }
-      ],
-      "85753513769": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "85753513769",
-            "nomor": "reret",
-            "status": true,
-            "blokir": false
-          }
-        }
       ]
     }
   }
