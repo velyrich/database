@@ -257,22 +257,6 @@
           }
         }
       ],
-      "rafli": [
-        {
-          "user": "rafli suki",
-          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/rafli-1766024833196.jpg",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "rafli",
-            "nomor": "6283167513007",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "DNozez": [
         {
           "user": "",
