@@ -849,22 +849,6 @@
           }
         }
       ],
-      "elchan": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "elchan",
-            "nomor": "6282326507266",
-            "status": false,
-            "blokir": false
-          }
-        }
-      ],
       "reret": [
         {
           "user": "",
