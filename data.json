@@ -960,6 +960,22 @@
             "blokir": false
           }
         }
+      ],
+      "lyna": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "lyna",
+            "nomor": "6285707088201",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
