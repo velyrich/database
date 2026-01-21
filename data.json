@@ -81,22 +81,6 @@
           }
         }
       ],
-      "lysa": [
-        {
-          "user": "Myla Elyvia",
-          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/lysa-1766984424371.jpg",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "MylaElyvia@gmail.com",
-          "database": {
-            "username": "lysa",
-            "nomor": "6285601744492",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "mira": [
         {
           "user": "",
