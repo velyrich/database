@@ -785,22 +785,6 @@
           }
         }
       ],
-      "kaizer": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "kaizer",
-            "nomor": "628976683984",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "reret": [
         {
           "user": "",
