@@ -960,6 +960,22 @@
             "blokir": false
           }
         }
+      ],
+      "rafli": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "rafli",
+            "nomor": "6283854909604",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
