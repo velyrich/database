@@ -960,6 +960,22 @@
             "blokir": false
           }
         }
+      ],
+      "vin": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "vin",
+            "nomor": "6285148147006",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
