@@ -849,22 +849,6 @@
           }
         }
       ],
-      "rafli": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "rafli",
-            "nomor": "6283180049237",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "Vienna": [
         {
           "user": "",
