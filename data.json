@@ -417,22 +417,6 @@
           }
         }
       ],
-      "nesx": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "nesx",
-            "nomor": "6282261856172",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "Nozez": [
         {
           "user": "",
