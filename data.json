@@ -960,6 +960,22 @@
             "blokir": false
           }
         }
+      ],
+      "reisya": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "reisya",
+            "nomor": "62895429259487",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
