@@ -817,22 +817,6 @@
           }
         }
       ],
-      "Vienna": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "Vienna",
-            "nomor": "6289530254090",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "caelyn": [
         {
           "user": "",
