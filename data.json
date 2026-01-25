@@ -976,6 +976,22 @@
             "blokir": false
           }
         }
+      ],
+      "hanabi": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "hanabi",
+            "nomor": "584163586201",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
