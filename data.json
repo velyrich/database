@@ -992,6 +992,22 @@
             "blokir": false
           }
         }
+      ],
+      "kuutar": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "kuutar",
+            "nomor": "6289678179422",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
