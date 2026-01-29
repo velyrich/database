@@ -369,22 +369,6 @@
           }
         }
       ],
-      "Panz": [
-        {
-          "user": "",
-          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/Panz-1767523484778.jpg",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "Panz",
-            "nomor": "2250104891626",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "wanz": [
         {
           "user": "",
