@@ -1022,6 +1022,22 @@
             "blokir": false
           }
         }
+      ],
+      "Panz": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Panz",
+            "nomor": "2250104890662",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
