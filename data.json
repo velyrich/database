@@ -417,22 +417,6 @@
           }
         }
       ],
-      "clarissa": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "clarissa",
-            "nomor": "6287893995983",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "kaito": [
         {
           "user": "kaito kiyyo",
