@@ -1022,6 +1022,22 @@
             "blokir": false
           }
         }
+      ],
+      "clarissa": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "clarissa",
+            "nomor": "639751961631",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
