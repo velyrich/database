@@ -1038,22 +1038,6 @@
             "blokir": false
           }
         }
-      ],
-      "Koezoet": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "Koezoet",
-            "nomor": "6281292733076",
-            "status": true,
-            "blokir": false
-          }
-        }
       ]
     }
   }
