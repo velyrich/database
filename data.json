@@ -1038,6 +1038,22 @@
             "blokir": false
           }
         }
+      ],
+      "kaizer": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "kaizer",
+            "nomor": "628976686439",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
