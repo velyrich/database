@@ -1007,22 +1007,6 @@
           }
         }
       ],
-      "clarissa": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "clarissa",
-            "nomor": "6285257258116",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "Koezoet": [
         {
           "user": "",
