@@ -1054,6 +1054,22 @@
             "blokir": false
           }
         }
+      ],
+      "F": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "F",
+            "nomor": "6282224434656",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
