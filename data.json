@@ -177,22 +177,6 @@
           }
         }
       ],
-      "F": [
-        {
-          "user": "",
-          "profile": "-",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "F",
-            "nomor": "6283851355427",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "FahrzSetir": [
         {
           "user": "",
