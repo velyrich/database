@@ -1070,6 +1070,22 @@
             "blokir": false
           }
         }
+      ],
+      "amane": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "amane",
+            "nomor": "6285701911022",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
