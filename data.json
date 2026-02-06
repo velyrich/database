@@ -1070,6 +1070,22 @@
             "blokir": false
           }
         }
+      ],
+      "nesx": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "nesx",
+            "nomor": "6281224273744",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
