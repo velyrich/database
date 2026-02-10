@@ -1086,6 +1086,22 @@
             "blokir": false
           }
         }
+      ],
+      "LRyu": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "LRyu",
+            "nomor": "573150760233",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
