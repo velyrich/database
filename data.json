@@ -1,5 +1,54 @@
 {
   "data": {
-    "user": {}
+    "user": {
+      "z.": [
+        {
+          "user": "Bakekok",
+          "profile": "https://files.catbox.moe/3s684e.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "z.",
+            "nomor": "6285751944270",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "c.": [
+        {
+          "user": "ya",
+          "profile": "https://files.catbox.moe/3s684e.jpg",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "c.",
+            "nomor": "6282299303923",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ],
+      "v.": [
+        {
+          "user": "",
+          "profile": "-",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "v.",
+            "nomor": "6283837983474",
+            "status": true,
+            "blokir": false
+          }
+        }
+      ]
+    }
   }
 }
