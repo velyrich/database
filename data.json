@@ -80,6 +80,22 @@
             "blokir": false
           }
         }
+      ],
+      "zirex": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "zirex",
+            "nomor": "6285725029137",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
