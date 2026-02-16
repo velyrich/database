@@ -64,6 +64,22 @@
             "blokir": false
           }
         }
+      ],
+      "L": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "L",
+            "nomor": "6281931272427",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
