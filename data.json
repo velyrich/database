@@ -48,6 +48,22 @@
             "blokir": false
           }
         }
+      ],
+      "Lin": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Lin",
+            "nomor": "6282234259024",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
