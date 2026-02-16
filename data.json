@@ -160,6 +160,22 @@
             "blokir": false
           }
         }
+      ],
+      "kaito": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "kaito",
+            "nomor": "6283895893023",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
