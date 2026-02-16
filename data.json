@@ -128,6 +128,22 @@
             "blokir": false
           }
         }
+      ],
+      "xena": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "xena",
+            "nomor": "62895326322746",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
