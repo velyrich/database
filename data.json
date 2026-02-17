@@ -304,6 +304,22 @@
             "blokir": false
           }
         }
+      ],
+      "FahriSTR": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "FahriSTR",
+            "nomor": "6283850724815",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
