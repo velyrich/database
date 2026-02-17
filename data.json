@@ -400,6 +400,22 @@
             "blokir": false
           }
         }
+      ],
+      "rimuru": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "rimuru",
+            "nomor": "6285774097721",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
