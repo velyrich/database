@@ -288,6 +288,22 @@
             "blokir": false
           }
         }
+      ],
+      "lazzy": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "lazzy",
+            "nomor": "6285129338358",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
