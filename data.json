@@ -257,22 +257,6 @@
           }
         }
       ],
-      "evelyn": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "evelyn",
-            "nomor": "6281367257099",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "rafli": [
         {
           "user": "",
