@@ -192,6 +192,22 @@
             "blokir": false
           }
         }
+      ],
+      "Nimzz": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Nimzz",
+            "nomor": "6281915895220",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
