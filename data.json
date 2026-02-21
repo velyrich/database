@@ -448,6 +448,22 @@
             "blokir": false
           }
         }
+      ],
+      "DURO22": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "DURO22",
+            "nomor": "6289530605137",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
