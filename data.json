@@ -496,6 +496,22 @@
             "blokir": false
           }
         }
+      ],
+      "FAANG": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "FAANG",
+            "nomor": "6287740631742",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
