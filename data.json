@@ -496,22 +496,6 @@
             "blokir": false
           }
         }
-      ],
-      "p": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "p",
-            "nomor": "p",
-            "status": true,
-            "blokir": false
-          }
-        }
       ]
     }
   }
