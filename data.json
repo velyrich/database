@@ -196,7 +196,7 @@
       "Nimzz": [
         {
           "user": "",
-          "profile": "../assets/img/avatars/1.png",
+          "profile": "https://raw.githubusercontent.com/velyrich/data/main/avatars/Nimzz-1771903168670.jpg",
           "webpass": "",
           "banned": false,
           "role": "",
@@ -204,7 +204,7 @@
           "database": {
             "username": "Nimzz",
             "nomor": "6281915895220",
-            "status": false,
+            "status": true,
             "blokir": false
           }
         }
