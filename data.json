@@ -528,6 +528,22 @@
             "blokir": false
           }
         }
+      ],
+      "akaza": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "akaza",
+            "nomor": "6285198425845",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
