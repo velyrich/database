@@ -512,6 +512,22 @@
             "blokir": false
           }
         }
+      ],
+      "chiel": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "chiel",
+            "nomor": "6285749579047",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
