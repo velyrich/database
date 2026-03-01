@@ -593,22 +593,6 @@
           }
         }
       ],
-      "komik": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "komik",
-            "nomor": "628816962754",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "Vienna": [
         {
           "user": "",
