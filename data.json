@@ -608,6 +608,22 @@
             "blokir": false
           }
         }
+      ],
+      "komik": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "komik",
+            "nomor": "6285895828128",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
