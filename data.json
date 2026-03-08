@@ -656,6 +656,22 @@
             "blokir": false
           }
         }
+      ],
+      "Madsoy": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Madsoy",
+            "nomor": "601163305786",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
