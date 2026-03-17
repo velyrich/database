@@ -688,6 +688,22 @@
             "blokir": false
           }
         }
+      ],
+      "viora": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "viora",
+            "nomor": "15815878318",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
