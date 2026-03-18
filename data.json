@@ -704,6 +704,22 @@
             "blokir": false
           }
         }
+      ],
+      "shiroyoshi": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "shiroyoshi",
+            "nomor": "6283186054402",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
