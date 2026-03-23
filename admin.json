@@ -58,5 +58,15 @@
     "username": "vinzz",
     "password": "vinzz775",
     "akses": true
+  },
+  {
+    "username": "villain",
+    "password": "villain775",
+    "akses": true
+  },
+  {
+    "username": "michael",
+    "password": "michael775",
+    "akses": true
   }
 ]
