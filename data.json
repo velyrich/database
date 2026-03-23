@@ -752,6 +752,22 @@
             "blokir": false
           }
         }
+      ],
+      "byonere": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "byonere",
+            "nomor": "6289531598563",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
