@@ -784,6 +784,22 @@
             "blokir": false
           }
         }
+      ],
+      "nezumi": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "nezumi",
+            "nomor": "6285701911022",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
