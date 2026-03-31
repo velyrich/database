@@ -145,22 +145,6 @@
           }
         }
       ],
-      "vin": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "vin",
-            "nomor": "6285746121011",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "kaito": [
         {
           "user": "",
