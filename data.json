@@ -800,6 +800,22 @@
             "blokir": false
           }
         }
+      ],
+      "nova": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "nova",
+            "nomor": "6285755489187",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
