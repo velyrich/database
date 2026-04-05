@@ -737,22 +737,6 @@
           }
         }
       ],
-      "delvin": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "delvin",
-            "nomor": "6285167434656",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "VrenN": [
         {
           "user": "",
