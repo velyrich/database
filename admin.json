@@ -68,5 +68,10 @@
     "username": "michael",
     "password": "michael775",
     "akses": true
+  },
+  {
+    "username": "xena",
+    "password": "xena775",
+    "akses": true
   }
 ]
