@@ -800,6 +800,22 @@
             "blokir": false
           }
         }
+      ],
+      "Kkura": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "Kkura",
+            "nomor": "6285774097721",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
