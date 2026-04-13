@@ -832,6 +832,22 @@
             "blokir": false
           }
         }
+      ],
+      "sptian": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "sptian",
+            "nomor": "6282366845953",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
