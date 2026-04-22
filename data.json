@@ -721,22 +721,6 @@
           }
         }
       ],
-      "VrenN": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "VrenN",
-            "nomor": "6287832370043",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "nezumi": [
         {
           "user": "",
