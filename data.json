@@ -737,22 +737,6 @@
           }
         }
       ],
-      "neo": [
-        {
-          "user": "",
-          "profile": "",
-          "webpass": "",
-          "banned": false,
-          "role": "",
-          "email": "",
-          "database": {
-            "username": "neo",
-            "nomor": "62895360424437",
-            "status": true,
-            "blokir": false
-          }
-        }
-      ],
       "nova": [
         {
           "user": "",
