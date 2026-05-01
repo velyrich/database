@@ -832,6 +832,22 @@
             "blokir": false
           }
         }
+      ],
+      "kaizy": [
+        {
+          "user": "",
+          "profile": "",
+          "webpass": "",
+          "banned": false,
+          "role": "",
+          "email": "",
+          "database": {
+            "username": "kaizy",
+            "nomor": "447469208801",
+            "status": true,
+            "blokir": false
+          }
+        }
       ]
     }
   }
