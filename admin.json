@@ -74,6 +74,11 @@
       "username": "xena",
       "password": "xena775",
       "akses": true
+    },
+    {
+      "username": "asu",
+      "password": "p",
+      "akses": true
     }
   ]
 }
