@@ -1,77 +1,85 @@
-[
-  {
-    "username": "admin",
-    "password": "3",
-    "akses": true
-  },
-  {
-    "username": "ntzckid",
-    "password": "ntzckid775",
-    "akses": true
-  },
-  {
-    "username": "yoshii",
-    "password": "yoshii775",
-    "akses": true
-  },
-  {
-    "username": "azrilly",
-    "password": "azrilly775",
-    "akses": true
-  },
-  {
-    "username": "L",
-    "password": "L775",
-    "akses": true
-  },
-  {
-    "username": "irfan",
-    "password": "irfan775",
-    "akses": true
-  },
-  {
-    "username": "HannV9",
-    "password": "HannV9775",
-    "akses": true
-  },
-  {
-    "username": "Lynn",
-    "password": "Lynn775",
-    "akses": true
-  },
-  {
-    "username": "VrenN",
-    "password": "VrenN775",
-    "akses": true
-  },
-  {
-    "username": "Koezoet",
-    "password": "Koezoet775",
-    "akses": true
-  },
-  {
-    "username": "kennfly",
-    "password": "kennfly775",
-    "akses": true
-  },
-  {
-    "username": "vinzz",
-    "password": "vinzz775",
-    "akses": true
-  },
-  {
-    "username": "villain",
-    "password": "villain775",
-    "akses": true
-  },
-  {
-    "username": "michael",
-    "password": "michael775",
-    "akses": true
-  },
-  {
-    "username": "xena",
-    "password": "xena775",
-    "akses": true
-  }
-]
+{
+  "sha": "0723cc953cfa609534b4a3ac00d375a88bf8af22",
+  "data": [
+    {
+      "username": "admin",
+      "password": "3",
+      "akses": true
+    },
+    {
+      "username": "ntzckid",
+      "password": "ntzckid775",
+      "akses": true
+    },
+    {
+      "username": "yoshii",
+      "password": "yoshii775",
+      "akses": true
+    },
+    {
+      "username": "azrilly",
+      "password": "azrilly775",
+      "akses": true
+    },
+    {
+      "username": "L",
+      "password": "L775",
+      "akses": true
+    },
+    {
+      "username": "irfan",
+      "password": "irfan775",
+      "akses": true
+    },
+    {
+      "username": "HannV9",
+      "password": "HannV9775",
+      "akses": true
+    },
+    {
+      "username": "Lynn",
+      "password": "Lynn775",
+      "akses": true
+    },
+    {
+      "username": "VrenN",
+      "password": "VrenN775",
+      "akses": true
+    },
+    {
+      "username": "Koezoet",
+      "password": "Koezoet775",
+      "akses": true
+    },
+    {
+      "username": "kennfly",
+      "password": "kennfly775",
+      "akses": true
+    },
+    {
+      "username": "vinzz",
+      "password": "vinzz775",
+      "akses": true
+    },
+    {
+      "username": "villain",
+      "password": "villain775",
+      "akses": true
+    },
+    {
+      "username": "michael",
+      "password": "michael775",
+      "akses": true
+    },
+    {
+      "username": "xena",
+      "password": "xena775",
+      "akses": true
+    },
+    {
+      "username": "p",
+      "password": "yaya",
+      "akses": true
+    }
+  ]
+}
